@@ -1,0 +1,6 @@
+opencv-python~=4.8.1.78
+depthai~=2.24.0.0
+numpy~=1.23.4
+pyqt5~=5.15.7
+opencv_python~=4.8.1.78
+numpy~=1.23.4
